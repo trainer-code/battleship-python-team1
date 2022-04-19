@@ -3,7 +3,7 @@ install: true
 os: linux
 dist: trusty
 python:
-  - "3.10"
+  - "3.6"
 
 before_script:
   - python -V
